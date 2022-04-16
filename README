@@ -1,3 +1,7 @@
+Esse repositório foi clonado do https://github.com/mteg/rapid128
+
+Veja mais detalhes do uso dele em https://github.com/ON3-Solutions/BarcodeReaderMS/blob/main/src/main/java/br/com/on3solutions/barcodereaderms/services/BarcodeService.java
+
 1. OVERVIEW
 
 Rapid128 reads Code128 barcodes from bitmap images. It finds its application
